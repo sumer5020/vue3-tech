@@ -33,3 +33,9 @@ npx tailwindcss init -p
     "lint": "vue-cli-service lint"
 }
 ```
+
+## Install & build
+
+```sh
+npm install && npm run build
+```
